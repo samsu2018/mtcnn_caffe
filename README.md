@@ -42,3 +42,5 @@ You should first download [WIDER Face](http://shuoyang1213.me/WIDERFACE) and [LF
 ## Reference
 0. https://github.com/AITTSMD/MTCNN-Tensorflow
 1. https://github.com/CongWeilin/mtcnn-caffe
+2. https://github.com/RuslanKosarev/TFMTCNN
+3. https://zhuanlan.zhihu.com/p/31761796
