@@ -14,8 +14,8 @@ The training data generate process can refer to [AITTSMD/MTCNN-Tensorflow](https
 
 Sample almost similar to Seanlinx's can be found in `prepare_data`
 
-You should first download [WIDER Face] and [LFW(CNN_FacePoint)]. WIDER Face for face detection and LFW(CNN_FacePoint) for landmark detection.
-(http://shuoyang1213.me/WIDERFACE) (http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm)
+You should first download [WIDER Face](http://shuoyang1213.me/WIDERFACE) and [LFW(CNN_FacePoint)](http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm). WIDER Face for face detection and LFW(CNN_FacePoint) for landmark detection.
+ 
 
 - step1. Download Wider Face Training part only from Official Website and unzip to replace `WIDER_train` and LFW(CNN_FacePoint).
 
