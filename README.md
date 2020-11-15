@@ -17,7 +17,7 @@ Sample almost similar to Seanlinx's can be found in `prepare_data`
 You should first download [WIDER Face](http://shuoyang1213.me/WIDERFACE) and [LFW(CNN_FacePoint)](http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm). WIDER Face for face detection and LFW(CNN_FacePoint) for landmark detection.
  
 
-- step1. Download Wider Face Training part only from Official Website and unzip to replace `WIDER_train` and LFW(CNN_FacePoint).
+- step1. Download Wider Face and LFW(CNN_FacePoint) Training part only from Official Website and unzip to replace `WIDER_train` and `LFW`.
 
 - step2. Run `gen_12net_data.py`   and `gen_12net_landmark.py`to generate 12net training data. Run `gen_12net_imdb.py` to generate imdb.
 
